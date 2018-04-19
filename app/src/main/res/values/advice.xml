@@ -1,0 +1,7 @@
+<resources>
+    <string name="Result1">BMI 結果 </string>
+    <string name="Result2_1">您該多吃點</string>
+    <string name="Result2_2">體型很棒喔</string>
+    <string name="Result2_3">您該少吃點，並多多運動</string>
+    <string name="pg2_btn">回上一頁</string>
+</resources>

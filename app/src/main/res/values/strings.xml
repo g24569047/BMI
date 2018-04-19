@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">計算 BMI 值</string>
+    <string name="title">計算你／妳的BMI值</string>
+    <string name="sex">男性／女性：</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="pg1_height">身高(m)：</string>
+    <string name="pg1_weight">體重(kg)：</string>
+    <string name="pg1_btn">計算</string>
+</resources>
